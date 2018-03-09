@@ -1,3 +1,4 @@
+//main method is avoided as the main target is how to solve the problem here.
 string Solution::findDigitsInBinary(int A)
  {
     // Do not write main() function.
